@@ -1,0 +1,25 @@
+{
+  "name": "node-farm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alamgir55/node--fram.git"
+  },
+  "author": "Alamgir hossain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alamgir55/node--fram/issues"
+  },
+  "homepage": "https://github.com/Alamgir55/node--fram#readme",
+  "dependencies": {
+    "slugify": "^1.4.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
